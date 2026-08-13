@@ -24,9 +24,13 @@ V2PAW节点覆盖香港、日本、台湾、新加坡、美国等热门地区，
 | 个人套餐 - 豪华款 | 1.25 TiB |   48 | ¥1,920.00 / 年 | ¥200.00 / 月 |
 | 团队套餐 - 入门款 | 10 TiB |   54 | ¥12,000.00 / 年 | ¥1,000.00 / 月 |
 ## 📊 性能实测与分析  
-#### 1.晚高峰测速表现  
-![image](?raw=ture)</br>
+#### 1.1联通晚高峰测速表现  
+![image](https://github.com/jdnei/v2paw/blob/main/v2paw/2384143cucc.jpg?raw=ture)</br>
+#### 1.2电信晚高峰测速表现  
+![image](https://github.com/jdnei/v2paw/blob/main/v2paw/98409218402ctcc.jpg?raw=ture)</br>
+#### 1.3移动晚高峰测速表现  
+![image](https://github.com/jdnei/v2paw/blob/main/v2paw/32048091840cmcc.jpg?raw=ture)</br>
 #### 2.流媒体解锁报告  
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/v2paw/blob/main/v2paw/34098520934850test.png?raw=ture)</br>
 #### 3.落地入口分析  
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/v2paw/blob/main/v2paw/8437520937405327ana.png?raw=ture)</br>
