@@ -1,5 +1,5 @@
 
-# V2PAW机场官方地址(2026年8月8日更新)
+# V2PAW机场官方地址(2026年8月27日更新)
 V2PAW机场官网地址</br>
 最新地址：[dash.v2paw.com](https://to.iix.im/v201)</br>
 官方地址：[dash.v2paw.com](https://to.iix.im/v201)</br>
