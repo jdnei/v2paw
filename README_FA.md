@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی V2PAW VPN(به‌روزرسانی 10 نوامبر 2026)
+# وب‌سایت رسمی V2PAW VPN(به‌روزرسانی 11 نوامبر 2026)
 وب‌سایت رسمی V2PAW VPN<br>
 آخرین آدرس: [dash.v2paw.com](https://to.iix.im/v201)<br>
 آدرس رسمی: [dash.v2paw.com](https://to.iix.im/v201)<br>

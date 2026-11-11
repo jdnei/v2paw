@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт V2PAW VPN (обновлено 10 ноября 2026)
+# Официальный сайт V2PAW VPN (обновлено 11 ноября 2026)
 
 Официальный сайт V2PAW VPN<br>
 Актуальный адрес: [dash.v2paw.com](https://to.iix.im/v201)<br>
