@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# V2PAW VPN Official Website (Updated November 15, 2026)
+# V2PAW VPN Official Website (Updated November 16, 2026)
 
 Official V2PAW VPN Website<br>
 Latest URL: [dash.v2paw.com](https://to.iix.im/v201)<br>
